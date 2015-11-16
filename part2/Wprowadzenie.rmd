@@ -1,0 +1,207 @@
+---
+title: "Wprowadzenie do instrumentów finansowych"
+author: "177029, 150051, 150050"
+date: "16 listopada 2015 r."
+output: html_document
+---
+<fieldset style="background-color: #c2c2c2; border: 2px dotted #330000; padding: 3;">
+<p style="margin-left: 30px;">
+<br />
+Instrument finansowy jest to kontrakt, który powoduje powstanie aktywów finansowych u jednej ze stron i zobowiązania finansowego u drugiej ze stron; jest to podstawowy przedmiot inwestycji finansowej.
+<br />
+<br />
+</fieldset>
+<br />
+
+<center><img src="rys1.jpg" style="border-style:solid; border-width:2px; border-color:#000000;"/></center>
+<br />
+
+<p style="text-indent: 25px; ">
+W związku z tym, że *instrument finansowy* jest traktowany jako substytut pieniądza posiada wiele definicji. W Polsce określony jest on w dwóch ustawach:<br />
+- ustawie o rachunkowości,<br />
+- ustawie o obrocie instrumentami finansowymi.
+</p>
+
+<p style="text-indent: 25px; ">
+**Ustawa o rachunkowości** przez *instrumenty finansowe* rozumie wszelkiego rodzaju kontrakty, na podstawie których powstają aktywa finansowe u jednej ze stron i zobowiązania finansowe albo instrumenty kapitałowe u drugiej ze stron. 
+Wymagane jest aby z kontraktu zawartego między dwiema lub więcej stronami wynikały skutki gospodarcze, bez względu na to, czy wykonanie praw lub zobowiązań ma charakter bezwarunkowy czy warunkowy.
+</p>
+
+<p style="text-indent: 25px; ">
+Natomiast w rozumieniu **ustawy o obrocie instrumentami finansowymi**, do  *instrumentów finansowych* zalicza się papiery wartościowe oraz niebędące papierami wartościowymi:<br />
+</p>
+
+- tytuły uczestnictwa w instytucjach zbiorowego inwestowania,<br /> 
+- instrumenty rynku pieniężnego,<br />
+- finansowe kontrakty terminowe oraz inne równoważne instrumenty finansowe rozliczane pieniężnie, umowy forward dotyczące stóp procentowych, swapy akcyjne, swapy na stopy procentowe, swapy walutowe,<br /> 
+- opcje kupna lub sprzedaży instrumentów finansowych, opcje na stopy procentowe, opcje walutowe, opcje na takie opcje, oraz inne równoważne instrumenty finansowe rozliczane pieniężnie,<b /> 
+- prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od wartości oznaczonych co do gatunku rzeczy, określonych rodzajów energii, miernikowi limitów wielkości produkcji lub emisji zanieczyszczeń (pochodne instrumenty towarowe), <br />
+- inne instrumenty, jeżeli zostały dopuszczone do obrotu na rynku regulowanym na terytorium państwa członkowskiego lub są przedmiotem ubiegania się o takie dopuszczenie.<b />
+<br />
+<br />
+</p>
+
+<p style="text-indent: 25px; ">
+W 2004 roku Polska wstąpiła w struktury Unii Europejskiej - wiązało się to z dostosowaniem naszego prawa (także finansowego) do standardów przyjętych przez dyrektywy Parlamentu Europejskiego i Rady Europy. **Dyrektywa o rynkach instrumentów finansowych** jako instrumenty finansowe traktuje:<br />
+- zbywalne papiery wartościowe,<br />
+- instrumenty rynku pieniężnego,<br />
+- jednostki uczestnictwa w przedsiębiorstwach zbiorowego inwestowania,<br /> 
+- transakcje opcyjne, transakcje typu futures, swaps, umowy terminowe na stopę procentową oraz inne kontrakty na instrumenty pochodne odnoszące się do papierów wartościowych, instrumentów dewizowych, stóp procentowych lub oprocentowania, albo innych instrumentów pochodnych, indeksów finansowych lub środków finansowych, które można rozliczać materialnie lub w środkach pieniężnych,<br />
+- transakcje opcyjne, transakcje typu futures, swaps, umowy terminowe na stopę procentową oraz inne kontrakty na instrumenty pochodne odnoszące się do instrumentów towarowych, które należy rozliczać w środkach pieniężnych lub w środkach pieniężnych z opcją jednej ze stron (w przeciwnym przypadku, mogą powodować niedotrzymanie warunków lub innego rodzaju zdarzenie unieważnienia kontraktu),<br />
+- transakcje opcyjne, transakcje typu futures, swaps, umowy terminowe na stopę procentową oraz inne kontrakty na instrumenty pochodne odnoszące się do instrumentów towarowych, 
+które można materialnie rozliczać pod warunkiem że podlegają one obrotowi na rynku regulowanym i/lub MTF,<br />
+- transakcje opcyjne, transakcje typu futures, swaps, umowy terminowe na stopę procentową oraz inne kontrakty na instrumenty pochodne odnoszące się do instrumentów towarowych, które można materialnie rozliczać oraz nie wymienionych w inny sposób w sekcji C.6 (tejże dyrektywy) i nie przeznaczonych do celów handlowych, które wykazują właściwości innych pochodnych instrumentów finansowych, uwzględniając między innymi, czy są one rozliczane przez uznane izby rozrachunkowe lub podlegają regularnym spekulacyjnym transakcjom różnicowym,<br />
+- instrumenty pochodne dotyczące przenoszenia ryzyka kredytowego,<br />
+- kontrakty finansowe na transakcje różnicowe,<br />
+- transakcje opcyjne, transakcje typu futures, swaps, umowy terminowe na stopę procentową oraz inne kontrakty na instrumenty pochodne odnoszące się do kontraktów na instrumenty towarowe dotyczące stawek klimatycznych, opłat przewozowych, dopuszczalnych poziomów emisji oraz stawek inflacji lub innych urzędowych danych statystycznych, które należy rozliczać w środkach pieniężnych lub z opcją jednej ze stron (w przeciwnym przypadku, mogą powodować niedotrzymanie warunków lub innego rodzaju zdarzenie unieważnienia kontraktu), a także wszelkiego rodzaju inne kontrakty na instrumenty pochodne dotyczące aktywów, praw, zobowiązań, indeksów oraz środków nie wymienionych gdzie indziej w tej sekcji, które wykazują właściwości innych pochodnych instrumentów finansowych, uwzględniając, między innymi, czy podlegają one obrotowi na rynku regulowanym lub MTF, są rozliczane przez uznawane izby rozrachunkowe, lub podlegają regularnym spekulacyjnym transakcjom różnicowym.<br /> 
+</p>
+
+<p style="text-indent: 25px; ">
+Zgodnie z **Międzynarodowymi Standardami Rachunkowości** za *instrumenty finansowe* możemy uznać: 
+</p>
+
+<fieldset style="background-color: #c2c2c2; border: 2px dotted #330000; padding: 3;">
+<p style="margin-left: 30px;">
+<br />
+umowy pożyczek, kredytów, umowy sprzedaży z odroczonym terminem płatności, środki na rachunku bieżącym, umowy najmu przewidujące wniesienie kaucji, a nawet umowy leasingu finansowego.
+W umowach wymienionych powyżej, w aktywach jednego podmiotu pojawia się składnik finansowy - najczęściej prawo do otrzymania środków pieniężnych lub instrument kapitałowy innego podmiotu. Drugi podmiot po stronie pasywów bilansu umieści albo zobowiązanie finansowe (jeśli posiada formę środków pieniężnych) albo instrument kapitałowy jako element kapitałów własnych.
+<br />
+<br />
+</fieldset>
+
+<br />
+
+#### Cechy instrumentu finansowego:
+
+1. Instrument finansowy jest umową (kontraktem), który w praktyce zawierany jest na piśmie i to bardzo często w formie określonej szczegółowymi przepisami;
+
+2. Mamy do czynienia w zasadzie z symetrią powstawania praw u jednej stron ze stron umowy oraz powstaniem obowiązku u drugiej strony;
+
+3. Z zawarciem umowy muszą się jednocześnie wiązać określone skutki gospodarcze – niezależnie od charakteru kontraktu (warunkowy czy bezwarunkowy), reprezentują one ustaloną lub możliwą do ustalenia sumę środków pieniężnych lub ich ekwiwalent w formie innych instrumentów pierwotnych finansowych;
+
+4. Instrumenty finansowe muszą być ujęte w bilansie jako jedna z trzech podstawowych kategorii finansowych: aktywa finansowe, zobowiązania finansowe i instrumenty kapitałowe. Są one zazwyczaj płynne;
+
+5. Emitent lub wystawca instrumentu finansowego wprowadza go do ksiąg rachunkowych na dzień zawarcia kontraktu.
+<br />
+<br />
+
+#### W zależności od zastosowanego kryterium, instrumenty finansowe możemy podzielić:
+<br />
+<span style="color:black"><u>**Ze względu na obrót:**</u></span>
+
+1.	Występujące na rynku finansowym
+2.	Nie występujące na rynku finansowym
+
+<span style="color:black"> <u>**Ze względu na rodzaj transferu:**</u></span>
+
+1.	Instrumenty transferu kapitału
+<ul>
+<li>instrumenty dłużne: obligacje, weksle, certyfikaty, bony skarbowe i pieniężne, a także papiery wartościowe będące dowodem zobowiązania finansowego pomiędzy zaciągającym zobowiązanie a nabywcą papieru dłużnego.
+<li>instrumenty udziałowe: akcje</li></ul>
+2.	Instrumenty transferu ryzyka
+<ul>
+<li>instrumenty pochodne: forward, futures, FRA, Interest Rate Swap, opcje</li></ul>
+3.	Instrumenty hybrydowe
+
+<p style="text-indent: 25px; ">
+<u>*Instrumenty transferu kapitału*</u> są to instrumenty, w których jedna strona dysponująca nadmiarem kapitału (inwestor), przekazuje go stronie potrzebującej kapitału. 
+Do instrumentów transferu kapitału należą instrumenty dłużne oraz instrumenty udziałowe.<br /> 
+W przypadku <u>*instrumentów dłużnych*</u> inwestor (pożyczkodawca) udostępnia swój kapitał pożyczkobiorcy (skarb państwa, bank komercyjny, gmina) za co otrzymuje kapitał dodatkowy (stopa procentowa).<br />
+W przypadku <u>*instrumentów udziałowych*</u> inwestor za udostępnienie kapitału otrzymuje udziały, co wiąże się często z prawem współwłasności.<br />
+</p>
+<br />
+
+<table border="l" style="text-align:left; vertical-align:top" >
+<caption align=bottom>**PORÓWNANIE POZYSKIWANIA KAPITAŁU DROGĄ EMISJI INSTRUMENTÓW DŁUŻNYCH I UDZIAŁOWYCH**</caption>
+<tr align="center">
+<td width=10%>
+</td>
+
+<td width=400>**Emisja instrumentów dłużnych**</td>
+<td>**Emisja instrumentów udziałowych**</td>
+</tr>
+
+<td style="text-align: center;">**ZALETY**</td>
+<td width=400>
+
+1. Powiązanie z wierzycielem na czas ograniczony.
+2. Możliwość wzrostu rentowności kapitału własnego (dźwignia finansowa).
+3. Stała liczba współwłaścicieli uczestniczących w podziale efektów ekonomicznych.
+</td>
+<td>
+1. Dostęp do kapitału na czas nieograniczony, bez konieczności jego zwrotu.
+2. Umocnienie niezależności ekonomicznej.
+3. Brak wydatków finansowych związanych z korzystaniem z kapitału.
+4. Korzystna struktura bilansu.
+5. Wzrost wiarygodności wobec potencjalnych wierzycieli.
+6. Zwiększenie liczby osób przejmujących ryzyko finansowe.
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">**WADY**</td>
+
+<td width=400>
+1. Obciążenie efektów ekonomicznych wydatkami z tytułu obsługi długu.
+2. Obciążenie fnansowe niezależnie od efektywności ekonomicznej  podmiotu.
+3. Pogorszenie struktury pasywów bilansu.
+4. Spadek wiarygodności podmiotu na rynku.
+5. Konieczność majątkowego i prawnego zabezpieczenia interesów wierzycieli.
+6. Ograniczenie niezależności ekonomicznej podmiotu.</td>
+
+<td width=400>
+1. Zwiększenie liczby podmiotów (współwłaścicieli) uczestniczących w podziale zysku i majątku.
+2. Zwiększenie liczby współzarządzających.
+3. Możliwość zwiększenia ryzyka finansowego współwłaścicieli.
+</td>
+</tr>
+</table>
+<br /> 
+
+<p style="text-indent: 25px; ">
+<u>*Instrumenty transferu ryzyka*</u> są to instrumenty, w których jedna ze stron lub obie przekazują sobie ryzyko. Do instrumentów transferu ryzyka należą przede wszystkim instrumenty pochodne.<br />
+<u>*Instrumenty hybrydowe*</u> są to instrumenty łączące cechy instrumentów dłużnych i instrumentów pochodnych.<br />
+</p>
+<br />
+
+<span style="color:black"><u>**Ze względu na kryterium czasu:**</u></span>
+
+1. Krótkoterminowe - okres zapadalności do 1 roku;  
+2. Średnioterminowe - okres zapadalności od 1 roku do 3 lat;  
+3. Ddługoterminowe - okres zapadalności powyżej 3 lat.
+
+<span style="color:black"><u>**Tradycyjny, najczęściej  stosowany podział na:**</u></span>
+
+1. Instrumenty rynku pieniężnego
+<ul>
+<li>bony skarbowe
+<li>bony komercyjne
+<li>certyfikaty depozytowe
+<li>transakcje typu „repo” i „reverse repo”</li></ul>
+2. Instrumenty rynku kapitałowego
+<ul>
+<li>obligacje
+<li>akcje
+<li>obligacje
+<li>inne instrumenty udziałowe takie jak: jednostki uczestnictwa w otwartych funduszach inwestycyjnych, certyfikaty inwestycyjne zamkniętych funduszy inwestycyjnych oraz certyfikaty indeksowe</li></ul>
+3. Rynek instrumentów pochodnych
+<ul>
+<li>opcje
+<li>kontrakty terminowe
+<li>swapy</li></ul>
+4. Rynek walutowy
+<br />
+
+****
+
+**Bibliografia:**
+
+Głuchowski J.: *Leksykon finansów*, PWE, Warszawa 2001<br />
+Jajuga K., Jajuga T.: *Inwestycje, instrumenty finansowe, aktywa niefinansowe, ryzyko finansowe, inżynieria finansowa*, PWN, Warszawa 2008<br />
+Sopoćko A.: *Rynkowe instrumenty finansowe*, PWN, Warszawa 2008<br />
+Czekaj J.: *Rynki, instrumenty i instytucje finansowe*, PWN, Warszawa 2008<br />
+*Dyrektywa 2004/39/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004r.w sprawie rynków instrumentów finansowych zmieniająca dyrektywę Rady 85/611/EWG i 93/6/EWG i dyrektywę 2000/12/WE Parlamentu Europejskiego i Rady oraz uchylająca dyrektywę Rady 93/22/EWG*<br />
+*Ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz.U. 2005 nr 183 poz. 1538 z późn. zm.)*<br />
+*Ustawa z dnia 29 września 1994 r. o rachunkowości (Dz.U. 1994 nr 121, poz. 591 z późn. zm.)*<br />
+https://www.nbportal.pl/<br />
+http://elfin.pl/<br />
+
